@@ -1,3 +1,3 @@
 <script>
-    document.write ("Olá de novo")
+    document.write ("lá")
 </script>
